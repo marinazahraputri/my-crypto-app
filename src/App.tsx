@@ -2,7 +2,7 @@ import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import { GoogleGenerativeAI } from "@google/generative-ai";
 import { AdvancedRealTimeChart } from "react-ts-tradingview-widgets";
 import { 
-  Zap, Newspaper, Search, RefreshCw, ShieldAlert, Cpu, Globe, Info
+  Zap, Search, RefreshCw, ShieldAlert, Cpu, Globe,
 } from 'lucide-react';
 
 // === SISTEM MULTI-BAHASA ===
